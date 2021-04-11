@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: I'm from dial-up era
 
- ![image](https://user-images.githubusercontent.com/20162801/114292144-73795e00-9a5a-11eb-9ad1-0d396222c33a.png)
+ ![image](https://user-images.githubusercontent.com/20162801/114292144-73795e00-9a5a-11eb-9ad1-0d396222c33a.png?v=4&s=100)
 
 <!--
 **Vvitali/Vvitali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
